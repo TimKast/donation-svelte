@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript", "svelte"],
+  "prettier.documentSelectors": ["**/*.svelte"],
+  "[svelte]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "svelte.enable-ts-plugin": true,
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true
+}

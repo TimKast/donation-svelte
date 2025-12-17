@@ -1,5 +1,5 @@
 <script lang="ts">
-  let {title = "", children} = $props();
+  let { title = "", children } = $props();
 </script>
 
 <div class="card mb-5">
